@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "B",
+			"text": "Jenny Wakeman. Again, you come to intercept me. You can’t cause any change this time! I have already begun my plan-",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "No time for me to hear about your PLAN. I want revenge on that blue haired jerk back on Earth!",
+			"boxState": "normal",
+			"portrait": "jenyp-2",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "Huh? You make no sense, Wakeman.",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "I want to battle a different way this time. With the power of singing.",
+			"boxState": "normal",
+			"portrait": "jenyp-2",
+			"speed": 0.05
+		},
+		{
+			"expression": "B",
+			"text": "That’s laughable, what do you think this will achieve?",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		},
+		{
+			"expression": "F",
+			"text": "If it can stop me, it can stop you.",
+			"boxState": "normal",
+			"portrait": "jenyp-2",
+			"speed": 0.05
+		},
+		{
+			"expression": "B",
+			"text": "Very well. I’ll play this childish game of yours, I am guaranteed to win regardless.",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "nightmare",
+		"player1": "mean_bf2",
+		"player2": "jenny-tv",
+		"player3": null,
+		"events": [
+			[
+				3579.54545454545,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jenny-minus_doll"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "minus_gf2",
+		"bpm": 264,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "disconnected"
+	}
+}

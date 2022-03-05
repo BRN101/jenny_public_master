@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "A",
+			"text": "There! I won! Now, leave Earth. I beat you fair and square.",
+			"boxState": "normal",
+			"portrait": "jenyp-2",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "Who said that singing battle guarantees you beat me? I was simply passing the time. Do you wish to become part of the cluster?",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "What do you mea-",
+			"boxState": "normal",
+			"portrait": "jenyp-2",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "You are now under my control.",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "RAAAAAAAAAAAAAAAAAAAAA",
+			"boxState": "angry",
+			"portrait": "jenyp-2",
+			"speed": 0.05
+		},
+		{
+			"expression": "D",
+			"text": "beep???",
+			"boxState": "normal",
+			"portrait": "bfp",
+			"speed": 0.05
+		},
+		{
+			"expression": "A",
+			"text": "Ah yes, she mentioned a blue haired individual. Prepare for  your assimilation!",
+			"boxState": "normal",
+			"portrait": "vexusp",
+			"speed": 0.05
+		},
+		{
+			"expression": "C",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		}
+	]
+}

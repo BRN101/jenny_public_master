@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV ESTATICA0000" x="0" y="0" width="348" height="348" pivotX="0" pivotY="0"/>
+	<SubTexture name="TV ESTATICA0001" x="0" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0002" x="348" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0003" x="348" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0004" x="696" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0005" x="696" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0006" x="1044" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0007" x="1044" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0008" x="1392" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0009" x="1392" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0010" x="0" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0011" x="0" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0012" x="348" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0013" x="348" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0014" x="696" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0015" x="696" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0016" x="1044" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0017" x="1044" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0018" x="1392" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0019" x="1392" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0020" x="0" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0021" x="0" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0022" x="348" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0023" x="348" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0024" x="696" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0025" x="696" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0026" x="1044" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0027" x="1044" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0028" x="1392" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0029" x="1392" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0030" x="0" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0031" x="0" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0032" x="348" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0033" x="348" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0034" x="696" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0035" x="696" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0036" x="1044" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0037" x="1044" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0038" x="1392" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0039" x="1392" y="0" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0040" x="0" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0041" x="0" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0042" x="348" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0043" x="348" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0044" x="696" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0045" x="696" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0046" x="1044" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0047" x="1044" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0048" x="1392" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0049" x="1392" y="348" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0050" x="0" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0051" x="0" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0052" x="348" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0053" x="348" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0054" x="696" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0055" x="696" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0056" x="1044" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0057" x="1044" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0058" x="1392" y="696" width="348" height="348"/>
+	<SubTexture name="TV ESTATICA0059" x="1392" y="696" width="348" height="348"/>
+</TextureAtlas>

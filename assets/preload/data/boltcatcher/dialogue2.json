@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "C",
+			"text": "How does that even work? How can you LOSE when singing?!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "B",
+			"text": "Beep bop bo die",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "C",
+			"text": "Can you stop speaking in stupid beeps? You're not a robot! Speak English!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "C",
+			"text": "What’s even happening? Why are we battling?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "C",
+			"text": "Beep bo bo bai bo beep bo ba bai bo bee boop do die do",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "C",
+			"text": "OKAY THAT’S IT! LET’S BATTLE AGAIN. I’LL WIN!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "JENNY! You’re off school, you should come home! I am worried about you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "norap"
+		},
+		{
+			"expression": "C",
+			"text": "Not now, Mom! I’m busy! This lil blue haired dude wants to rap battle, and I won’t let him win.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "Jenny, come o-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "norap"
+		},
+		{
+			"expression": "C",
+			"text": "Alright. Let’s do this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		}
+	]
+}

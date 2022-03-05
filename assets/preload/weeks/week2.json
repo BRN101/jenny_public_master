@@ -1,0 +1,57 @@
+{
+	"storyName": "extra songs yeah!",
+	"hideFreeplay": false,
+	"weekBackground": "EXTRAS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"malfunction",
+			"doll",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"neutroa-remix",
+			"jenny",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"waboom",
+			"madjenny",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"disconnected",
+			"doll",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Custom week"
+}

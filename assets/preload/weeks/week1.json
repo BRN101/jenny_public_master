@@ -1,0 +1,66 @@
+{
+	"storyName": "hostile makeover",
+	"hideFreeplay": false,
+	"weekBackground": "STORYMODE",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"xj",
+			"jenny",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"boltcatcher",
+			"boltcatcher",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"manipulation",
+			"vexus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"giga",
+			"jenny",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"descendance",
+			"jenny",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

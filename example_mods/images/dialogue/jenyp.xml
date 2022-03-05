@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jenyp.png">
+
+	<SubTexture name="A0000" x="10" y="10" width="512" height="1024"/>
+    <SubTexture name="B0000" x="542" y="10" width="512" height="1024"/>
+    <SubTexture name="C0000" x="1074" y="10" width="512" height="1024"/>
+    <SubTexture name="D0000" x="1606" y="10" width="512" height="1024"/>
+    <SubTexture name="E0000" x="10" y="1054" width="512" height="1024"/>
+    <SubTexture name="F0000" x="542" y="1054" width="512" height="1024"/>
+
+</TextureAtlas>

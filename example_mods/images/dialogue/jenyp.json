@@ -1,0 +1,89 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "jenyp",
+	"animations": [
+		{
+			"loop_offsets": [
+				-140,
+				140
+			],
+			"anim": "A",
+			"idle_offsets": [
+				-140,
+				140
+			],
+			"loop_name": "A",
+			"idle_name": "A"
+		},
+		{
+			"loop_name": "B",
+			"idle_offsets": [
+				-140,
+				140
+			],
+			"idle_name": "B",
+			"anim": "B",
+			"loop_offsets": [
+				-140,
+				140
+			]
+		},
+		{
+			"loop_name": "C",
+			"idle_offsets": [
+				-140,
+				140
+			],
+			"idle_name": "C",
+			"anim": "C",
+			"loop_offsets": [
+				-140,
+				140
+			]
+		},
+		{
+			"loop_name": "D",
+			"idle_offsets": [
+				-140,
+				140
+			],
+			"idle_name": "D",
+			"anim": "D",
+			"loop_offsets": [
+				-140,
+				140
+			]
+		},
+		{
+			"loop_name": "E",
+			"idle_offsets": [
+				-140,
+				140
+			],
+			"idle_name": "E",
+			"anim": "E",
+			"loop_offsets": [
+				-140,
+				140
+			]
+		},
+		{
+			"loop_name": "F",
+			"idle_offsets": [
+				-140,
+				140
+			],
+			"idle_name": "F",
+			"anim": "F",
+			"loop_offsets": [
+				-140,
+				140
+			]
+		}
+	]
+}

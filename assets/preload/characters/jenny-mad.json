@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "madjenny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "madjenny right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-86
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "madjenny down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "madjenny up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "madjenny idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madjenny",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "madjenny",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		205,
+		175
+	],
+	"camera_position": [
+		-120,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

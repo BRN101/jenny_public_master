@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "B",
+			"idle_offsets": [
+				-70,
+				160
+			],
+			"idle_name": "B",
+			"anim": "B",
+			"loop_offsets": [
+				-70,
+				160
+			]
+		},
+		{
+			"loop_name": "A",
+			"idle_offsets": [
+				-120,
+				160
+			],
+			"idle_name": "A",
+			"anim": "A",
+			"loop_offsets": [
+				-120,
+				160
+			]
+		}
+	],
+	"image": "vexusp"
+}

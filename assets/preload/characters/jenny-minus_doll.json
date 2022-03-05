@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				156,
+				-138
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jennydol idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jenny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jenny down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JENNY UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-76
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jenny right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MINUSDOLL",
+	"position": [
+		70,
+		-40
+	],
+	"healthicon": "doll",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		172,
+		183
+	],
+	"camera_position": [
+		-170,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

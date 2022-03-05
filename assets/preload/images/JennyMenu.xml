@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JennyMenu.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JennyMenuBop0000" x="20" y="20" width="556" height="810" frameX="-30" frameY="-20" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0001" x="20" y="20" width="556" height="810" frameX="-30" frameY="-20" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0002" x="596" y="20" width="553" height="815" frameX="-21" frameY="-15" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0003" x="1169" y="20" width="546" height="817" frameX="-21" frameY="-13" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0004" x="1735" y="20" width="556" height="805" frameX="0" frameY="0" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0005" x="1735" y="20" width="556" height="805" frameX="0" frameY="0" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0006" x="2311" y="20" width="585" height="803" frameX="-30" frameY="-3" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0007" x="2311" y="20" width="585" height="803" frameX="-30" frameY="-3" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0008" x="2916" y="20" width="590" height="797" frameX="-44" frameY="-12" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0009" x="2916" y="20" width="590" height="797" frameX="-44" frameY="-12" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0010" x="20" y="857" width="582" height="789" frameX="-56" frameY="-20" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0011" x="20" y="857" width="582" height="789" frameX="-56" frameY="-20" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0012" x="622" y="857" width="581" height="788" frameX="-58" frameY="-21" frameWidth="639" frameHeight="830"/>
+	<SubTexture name="JennyMenuBop0013" x="1223" y="857" width="581" height="792" frameX="-54" frameY="-18" frameWidth="639" frameHeight="830"/>
+</TextureAtlas>

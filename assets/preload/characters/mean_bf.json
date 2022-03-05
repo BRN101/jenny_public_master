@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mean idle dance"
+		},
+		{
+			"offsets": [
+				35,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mean NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				50,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mean NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				8,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mean NOTE UP0"
+		},
+		{
+			"offsets": [
+				-10,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mean NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				32,
+				-34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "mean NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				46,
+				-95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "mean NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				13,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "mean NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-7,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "mean NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				23,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "mean HEY"
+		},
+		{
+			"offsets": [
+				-9,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "mean idle shaking"
+		},
+		{
+			"offsets": [
+				54,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "mean dies"
+		},
+		{
+			"offsets": [
+				48,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "mean Dead Loop"
+		},
+		{
+			"offsets": [
+				48,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "mean Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mean_bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mean",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

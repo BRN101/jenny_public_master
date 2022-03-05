@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gigaIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				533,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gigaLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gigadown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				556,
+				429
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gigaup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gigaRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jennyhulk_sprites",
+	"position": [
+		-380,
+		-280
+	],
+	"healthicon": "boltcatcher",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		172,
+		183
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEANJENNY.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf idle0000" x="0" y="0" width="254" height="317" frameX="-1" frameY="-9" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0001" x="0" y="0" width="254" height="317" frameX="-1" frameY="-9" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0002" x="254" y="0" width="254" height="325" frameX="-1" frameY="0" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0003" x="254" y="0" width="254" height="325" frameX="-1" frameY="0" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0004" x="508" y="0" width="253" height="320" frameX="0" frameY="-4" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0005" x="508" y="0" width="253" height="320" frameX="0" frameY="-4" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0006" x="761" y="0" width="252" height="316" frameX="0" frameY="-8" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0007" x="761" y="0" width="252" height="316" frameX="0" frameY="-8" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0008" x="0" y="325" width="251" height="316" frameX="0" frameY="-8" frameWidth="255" frameHeight="326"/>
+	<SubTexture name="gf idle0009" x="0" y="325" width="251" height="316" frameX="0" frameY="-8" frameWidth="255" frameHeight="326"/>
+</TextureAtlas>

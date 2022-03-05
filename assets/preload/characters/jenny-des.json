@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JENNYLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				-43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JENNYRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-59
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jennydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jennyup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "desjennyidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/desjenny",
+	"position": [
+		-20,
+		-40
+	],
+	"healthicon": "jenny",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		245,
+		235
+	],
+	"camera_position": [
+		-80,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

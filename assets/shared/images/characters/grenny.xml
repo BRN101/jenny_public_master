@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grenny.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JENNY DIES LOOP0000" x="10" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0001" x="498" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0002" x="498" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0003" x="986" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0004" x="986" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0005" x="1474" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0006" x="1474" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0007" x="1962" y="10" width="467" height="743" frameX="0" frameY="0" frameWidth="468" frameHeight="743"/>
+	<SubTexture name="JENNY DIES LOOP0008" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0009" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0010" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0011" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0012" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0013" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0014" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0015" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0016" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0017" x="10" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0018" x="498" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0019" x="498" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0020" x="986" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0021" x="986" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0022" x="1474" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0023" x="1474" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0024" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0025" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0026" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0027" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0028" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0029" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0030" x="1962" y="10" width="467" height="743" frameX="0" frameY="0" frameWidth="468" frameHeight="743"/>
+	<SubTexture name="JENNY DIES LOOP0031" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0032" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DIES LOOP0033" x="2449" y="10" width="468" height="743"/>
+	<SubTexture name="JENNY DOWN MISS0000" x="2937" y="10" width="460" height="585" frameX="0" frameY="0" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0001" x="3417" y="10" width="472" height="558" frameX="-3" frameY="-32" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0002" x="3417" y="10" width="472" height="558" frameX="-3" frameY="-32" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0003" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0004" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0005" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0006" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0007" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0008" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0009" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0010" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0011" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0012" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY DOWN MISS0013" x="3909" y="10" width="465" height="562" frameX="-7" frameY="-28" frameWidth="475" frameHeight="590"/>
+	<SubTexture name="JENNY LEFT MISS0000" x="4394" y="10" width="439" height="619" frameX="-2" frameY="0" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0001" x="4853" y="10" width="448" height="576" frameX="0" frameY="-26" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0002" x="4853" y="10" width="448" height="576" frameX="0" frameY="-26" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0003" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0004" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0005" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0006" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0007" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0008" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0009" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0010" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0011" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0012" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY LEFT MISS0013" x="5321" y="10" width="437" height="581" frameX="-5" frameY="-21" frameWidth="448" frameHeight="619"/>
+	<SubTexture name="JENNY RIGHT MISS0000" x="5778" y="10" width="455" height="634" frameX="-11" frameY="0" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0001" x="6253" y="10" width="472" height="614" frameX="0" frameY="-15" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0002" x="6253" y="10" width="472" height="614" frameX="0" frameY="-15" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0003" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0004" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0005" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0006" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0007" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0008" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0009" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0010" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0011" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0012" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY RIGHT MISS0013" x="6745" y="10" width="459" height="628" frameX="-6" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="JENNY idle0000" x="7224" y="10" width="471" height="693" frameX="0" frameY="-22" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0001" x="7224" y="10" width="471" height="693" frameX="0" frameY="-22" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0002" x="7715" y="10" width="459" height="689" frameX="-7" frameY="-25" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0003" x="7715" y="10" width="459" height="689" frameX="-7" frameY="-25" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0004" x="10" y="773" width="427" height="680" frameX="-33" frameY="-26" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0005" x="10" y="773" width="427" height="680" frameX="-33" frameY="-26" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0006" x="457" y="773" width="422" height="678" frameX="-42" frameY="-25" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0007" x="457" y="773" width="422" height="678" frameX="-42" frameY="-25" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0008" x="899" y="773" width="454" height="686" frameX="-17" frameY="-16" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0009" x="899" y="773" width="454" height="686" frameX="-17" frameY="-16" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0010" x="1373" y="773" width="465" height="695" frameX="-10" frameY="-6" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0011" x="1373" y="773" width="465" height="695" frameX="-10" frameY="-6" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0012" x="1858" y="773" width="466" height="698" frameX="-11" frameY="-1" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="JENNY idle0013" x="2344" y="773" width="467" height="702" frameX="-9" frameY="0" frameWidth="477" frameHeight="715"/>
+	<SubTexture name="jenny dead confirms0000" x="2831" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0001" x="3319" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0002" x="3807" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0003" x="4295" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0004" x="4783" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0005" x="5271" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0006" x="5759" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0007" x="6247" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0008" x="6735" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0009" x="7223" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0010" x="7711" y="773" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0011" x="10" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0012" x="498" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0013" x="986" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0014" x="1474" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0015" x="1962" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0016" x="2450" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0017" x="2938" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0018" x="3426" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0019" x="3914" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0020" x="4402" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0021" x="4890" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0022" x="4890" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0023" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0024" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0025" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0026" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0027" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0028" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0029" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0030" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0031" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0032" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dead confirms0033" x="5378" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dies0000" x="5866" y="1536" width="467" height="743" frameX="0" frameY="0" frameWidth="468" frameHeight="743"/>
+	<SubTexture name="jenny dies0001" x="6353" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dies0002" x="6353" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dies0003" x="6841" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dies0004" x="6841" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dies0005" x="7329" y="1536" width="468" height="743"/>
+	<SubTexture name="jenny dies0006" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0007" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0008" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0009" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0010" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0011" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0012" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0013" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0014" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0015" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0016" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0017" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0018" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0019" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0020" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0021" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0022" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0023" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0024" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0025" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0026" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0027" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0028" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0029" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0030" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0031" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0032" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0033" x="10" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0034" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0035" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0036" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0037" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0038" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0039" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0040" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0041" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0042" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0043" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0044" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0045" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0046" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0047" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0048" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0049" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0050" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0051" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0052" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0053" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0054" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0055" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0056" x="498" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny dies0057" x="986" y="2299" width="468" height="743"/>
+	<SubTexture name="jenny up0000" x="1474" y="2299" width="396" height="650" frameX="0" frameY="-9" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0001" x="1474" y="2299" width="396" height="650" frameX="0" frameY="-9" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0002" x="1890" y="2299" width="391" height="658" frameX="-4" frameY="-4" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0003" x="1890" y="2299" width="391" height="658" frameX="-4" frameY="-4" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0004" x="2301" y="2299" width="400" height="678" frameX="-24" frameY="0" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0005" x="2301" y="2299" width="400" height="678" frameX="-24" frameY="0" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0006" x="2721" y="2299" width="394" height="680" frameX="-33" frameY="-4" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0007" x="2721" y="2299" width="394" height="680" frameX="-33" frameY="-4" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0008" x="3135" y="2299" width="368" height="675" frameX="-37" frameY="-13" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0009" x="3135" y="2299" width="368" height="675" frameX="-37" frameY="-13" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0010" x="3523" y="2299" width="354" height="670" frameX="-40" frameY="-20" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0011" x="3523" y="2299" width="354" height="670" frameX="-40" frameY="-20" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0012" x="3897" y="2299" width="351" height="668" frameX="-39" frameY="-24" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up0013" x="3897" y="2299" width="351" height="668" frameX="-39" frameY="-24" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up miss0000" x="1474" y="2299" width="396" height="650" frameX="0" frameY="0" frameWidth="427" frameHeight="692"/>
+	<SubTexture name="jenny up miss0001" x="4268" y="2299" width="380" height="628" frameX="-20" frameY="-25" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0002" x="4268" y="2299" width="380" height="628" frameX="-20" frameY="-25" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0003" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0004" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0005" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0006" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0007" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0008" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0009" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0010" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0011" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0012" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jenny up miss0013" x="4668" y="2299" width="376" height="633" frameX="-20" frameY="-20" frameWidth="400" frameHeight="653"/>
+	<SubTexture name="jennydown0000" x="5064" y="2299" width="460" height="584" frameX="-1" frameY="-26" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0001" x="5064" y="2299" width="460" height="584" frameX="-1" frameY="-26" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0002" x="5544" y="2299" width="456" height="588" frameX="0" frameY="-23" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0003" x="5544" y="2299" width="456" height="588" frameX="0" frameY="-23" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0004" x="6020" y="2299" width="409" height="582" frameX="-33" frameY="-28" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0005" x="6020" y="2299" width="409" height="582" frameX="-33" frameY="-28" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0006" x="6449" y="2299" width="407" height="588" frameX="-31" frameY="-20" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0007" x="6449" y="2299" width="407" height="588" frameX="-31" frameY="-20" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0008" x="6876" y="2299" width="438" height="591" frameX="-14" frameY="-10" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0009" x="6876" y="2299" width="438" height="591" frameX="-14" frameY="-10" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0010" x="7334" y="2299" width="444" height="595" frameX="-12" frameY="-3" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0011" x="7334" y="2299" width="444" height="595" frameX="-12" frameY="-3" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0012" x="10" y="3062" width="445" height="596" frameX="-12" frameY="0" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennydown0013" x="10" y="3062" width="445" height="596" frameX="-12" frameY="0" frameWidth="461" frameHeight="611"/>
+	<SubTexture name="jennyleft0000" x="475" y="3062" width="439" height="619" frameX="-16" frameY="-12" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0001" x="475" y="3062" width="439" height="619" frameX="-16" frameY="-12" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0002" x="934" y="3062" width="446" height="621" frameX="-9" frameY="-11" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0003" x="934" y="3062" width="446" height="621" frameX="-9" frameY="-11" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0004" x="1400" y="3062" width="455" height="623" frameX="0" frameY="-6" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0005" x="1400" y="3062" width="455" height="623" frameX="0" frameY="-6" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0006" x="1875" y="3062" width="458" height="625" frameX="-6" frameY="0" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0007" x="1875" y="3062" width="458" height="625" frameX="-6" frameY="0" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0008" x="2353" y="3062" width="446" height="617" frameX="-26" frameY="-5" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0009" x="2353" y="3062" width="446" height="617" frameX="-26" frameY="-5" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0010" x="2819" y="3062" width="438" height="615" frameX="-38" frameY="-6" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0011" x="2819" y="3062" width="438" height="615" frameX="-38" frameY="-6" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0012" x="3277" y="3062" width="433" height="612" frameX="-46" frameY="-8" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyleft0013" x="3277" y="3062" width="433" height="612" frameX="-46" frameY="-8" frameWidth="479" frameHeight="632"/>
+	<SubTexture name="jennyright0000" x="5778" y="10" width="455" height="634" frameX="-5" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="jennyright0001" x="5778" y="10" width="455" height="634" frameX="-5" frameY="-2" frameWidth="472" frameHeight="634"/>
+	<SubTexture name="jennyright0002" x="3730" y="3062" width="451" height="632" frameX="-9" frameY="-3" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0003" x="3730" y="3062" width="451" height="632" frameX="-9" frameY="-3" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0004" x="4201" y="3062" width="414" height="621" frameX="-24" frameY="-8" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0005" x="4201" y="3062" width="414" height="621" frameX="-24" frameY="-8" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0006" x="4635" y="3062" width="408" height="628" frameX="-27" frameY="-3" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0007" x="4635" y="3062" width="408" height="628" frameX="-27" frameY="-3" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0008" x="5063" y="3062" width="426" height="630" frameX="-10" frameY="-2" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0009" x="5063" y="3062" width="426" height="630" frameX="-10" frameY="-2" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0010" x="5509" y="3062" width="435" height="633" frameX="-3" frameY="-1" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0011" x="5509" y="3062" width="435" height="633" frameX="-3" frameY="-1" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0012" x="5964" y="3062" width="439" height="635" frameX="0" frameY="0" frameWidth="461" frameHeight="636"/>
+	<SubTexture name="jennyright0013" x="5964" y="3062" width="439" height="635" frameX="0" frameY="0" frameWidth="461" frameHeight="636"/>
+</TextureAtlas>

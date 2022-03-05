@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="giga_jenny.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gigaIDLE0000" x="0" y="0" width="682" height="678" pivotX="2.55" pivotY="0.4" frameX="-12" frameY="-7" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0001" x="0" y="0" width="682" height="678" frameX="-12" frameY="-7" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0002" x="682" y="0" width="686" height="682" frameX="-10" frameY="-3" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0003" x="682" y="0" width="686" height="682" frameX="-10" frameY="-3" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0004" x="1368" y="0" width="690" height="685" frameX="-8" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0005" x="1368" y="0" width="690" height="685" frameX="-8" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0006" x="2058" y="0" width="696" height="685" frameX="-5" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0007" x="2058" y="0" width="696" height="685" frameX="-5" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0008" x="2754" y="0" width="704" height="685" frameX="-2" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0009" x="2754" y="0" width="704" height="685" frameX="-2" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0010" x="0" y="685" width="711" height="685" frameX="-1" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0011" x="0" y="685" width="711" height="685" frameX="-1" frameY="0" frameWidth="713" frameHeight="685"/>
+	<SubTexture name="gigaIDLE0012" x="711" y="685" width="713" height="685"/>
+	<SubTexture name="gigaIDLE0013" x="711" y="685" width="713" height="685"/>
+	<SubTexture name="gigaLEFT0000" x="1424" y="685" width="875" height="745" pivotX="159.75" pivotY="-10.3" frameX="0" frameY="-5" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0001" x="1424" y="685" width="875" height="745" frameX="0" frameY="-5" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0002" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0003" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0004" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0005" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0006" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0007" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0008" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0009" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0010" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0011" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0012" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaLEFT0013" x="2299" y="685" width="872" height="749" frameX="0" frameY="0" frameWidth="875" frameHeight="751"/>
+	<SubTexture name="gigaRIGHT0000" x="3171" y="685" width="730" height="684" pivotX="-95.7" pivotY="-4.35" frameX="-19" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0001" x="3171" y="685" width="730" height="684" frameX="-19" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0002" x="0" y="1434" width="745" height="684" frameX="-9" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0003" x="745" y="1434" width="755" height="684" frameX="-2" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0004" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0005" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0006" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0007" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0008" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0009" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0010" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0011" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0012" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigaRIGHT0013" x="1500" y="1434" width="756" height="684" frameX="0" frameY="0" frameWidth="757" frameHeight="684"/>
+	<SubTexture name="gigadown0000" x="2256" y="1434" width="841" height="641" pivotX="-61.2" pivotY="-20.25" frameX="0" frameY="-9" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0001" x="2256" y="1434" width="841" height="641" frameX="0" frameY="-9" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0002" x="3097" y="1434" width="818" height="641" frameX="-11" frameY="-9" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0003" x="3097" y="1434" width="818" height="641" frameX="-11" frameY="-9" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0004" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0005" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0006" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0007" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0008" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0009" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0010" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0011" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0012" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigadown0013" x="0" y="2118" width="802" height="651" frameX="-9" frameY="0" frameWidth="841" frameHeight="651"/>
+	<SubTexture name="gigaup0000" x="802" y="2118" width="815" height="795" pivotX="-89.45" pivotY="-16.3" frameX="0" frameY="-26" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0001" x="802" y="2118" width="815" height="795" frameX="0" frameY="-26" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0002" x="1617" y="2118" width="803" height="795" frameX="-6" frameY="-26" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0003" x="1617" y="2118" width="803" height="795" frameX="-6" frameY="-26" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0004" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0005" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0006" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0007" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0008" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0009" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0010" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0011" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0012" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+	<SubTexture name="gigaup0013" x="2420" y="2118" width="793" height="824" frameX="-6" frameY="0" frameWidth="815" frameHeight="824"/>
+</TextureAtlas>

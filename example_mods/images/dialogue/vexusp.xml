@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vexusp.png">
+
+	<SubTexture name="A0000" x="1054" y="10" width="512" height="1024"/>
+    <SubTexture name="B0000" x="10" y="10" width="1024" height="1024"/>
+</TextureAtlas>

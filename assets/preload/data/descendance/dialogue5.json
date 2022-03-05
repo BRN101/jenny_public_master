@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "A",
+			"text": "Beep!!! >:)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "A",
+			"text": "This doesn't  make sense . . . beaten by the power of singing. No matter, I will be back",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "vexusp"
+		},
+		{
+			"expression": "A",
+			"text": "beep bo beep >:)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "F",
+			"text": "Wow I didn't think you could defeat her with that sort of power.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "F",
+			"text": "Now I owe you a battle myself. But, I'm not going easy on you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "bo >:)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "F",
+			"text": "Let's do this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		}
+	]
+}

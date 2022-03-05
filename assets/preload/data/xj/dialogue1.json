@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "A",
+			"text": "Who are you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "Beep bop bo ske die bopp die beep die bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "A",
+			"text": "Huh\"? What's this mic for?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "B",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "B",
+			"text": "You want to sing..? Why/?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "Beep bo!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "A",
+			"text": "Um, okay. We're .. doing this. This should be fun!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "Beep! >:D",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		}
+	]
+}

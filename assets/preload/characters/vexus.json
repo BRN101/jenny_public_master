@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vexus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-269
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vexusdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "VEXUS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				-175
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "VEXUSLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				-39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "VEXUSRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vexus_assets",
+	"position": [
+		0,
+		-190
+	],
+	"healthicon": "vexus",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		143,
+		99
+	],
+	"camera_position": [
+		-210,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

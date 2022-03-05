@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DollJenny.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Doll Down0000" x="10" y="10" width="500" height="669" frameX="0" frameY="-21" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0001" x="10" y="10" width="500" height="669" frameX="0" frameY="-21" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0002" x="530" y="10" width="500" height="665" frameX="0" frameY="-25" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0003" x="530" y="10" width="500" height="665" frameX="0" frameY="-25" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0004" x="1050" y="10" width="500" height="652" frameX="0" frameY="-38" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0005" x="1050" y="10" width="500" height="652" frameX="0" frameY="-38" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0006" x="1570" y="10" width="501" height="681" frameX="0" frameY="-9" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0007" x="1570" y="10" width="501" height="681" frameX="0" frameY="-9" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0008" x="2091" y="10" width="502" height="686" frameX="0" frameY="-4" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0009" x="2091" y="10" width="502" height="686" frameX="0" frameY="-4" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0010" x="2613" y="10" width="503" height="689" frameX="0" frameY="-1" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0011" x="2613" y="10" width="503" height="689" frameX="0" frameY="-1" frameWidth="503" frameHeight="690"/>
+	<SubTexture name="Doll Down0012" x="3136" y="10" width="503" height="690"/>
+	<SubTexture name="Doll Down0013" x="3136" y="10" width="503" height="690"/>
+	<SubTexture name="Doll Idle0000" x="3659" y="10" width="499" height="757" frameX="0" frameY="-11" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0001" x="3659" y="10" width="499" height="757" frameX="0" frameY="-11" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0002" x="4178" y="10" width="512" height="753" frameX="0" frameY="-15" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0003" x="4178" y="10" width="512" height="753" frameX="0" frameY="-15" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0004" x="4710" y="10" width="509" height="758" frameX="0" frameY="-10" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0005" x="4710" y="10" width="509" height="758" frameX="0" frameY="-10" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0006" x="5239" y="10" width="491" height="759" frameX="0" frameY="-9" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0007" x="5239" y="10" width="491" height="759" frameX="0" frameY="-9" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0008" x="5750" y="10" width="483" height="762" frameX="0" frameY="-6" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0009" x="5750" y="10" width="483" height="762" frameX="0" frameY="-6" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0010" x="6253" y="10" width="483" height="764" frameX="0" frameY="-4" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0011" x="6253" y="10" width="483" height="764" frameX="0" frameY="-4" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0012" x="6756" y="10" width="483" height="766" frameX="0" frameY="-2" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Idle0013" x="7259" y="10" width="482" height="768" frameX="0" frameY="0" frameWidth="512" frameHeight="768"/>
+	<SubTexture name="Doll Left0000" x="10" y="798" width="586" height="787" frameX="-2" frameY="-42" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0001" x="10" y="798" width="586" height="787" frameX="-2" frameY="-42" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0002" x="616" y="798" width="588" height="796" frameX="0" frameY="-33" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0003" x="616" y="798" width="588" height="796" frameX="0" frameY="-33" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0004" x="1224" y="798" width="574" height="829" frameX="-16" frameY="0" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0005" x="1224" y="798" width="574" height="829" frameX="-16" frameY="0" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0006" x="1818" y="798" width="568" height="829" frameX="-22" frameY="0" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0007" x="1818" y="798" width="568" height="829" frameX="-22" frameY="0" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0008" x="2406" y="798" width="564" height="807" frameX="-26" frameY="-22" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0009" x="2406" y="798" width="564" height="807" frameX="-26" frameY="-22" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0010" x="2990" y="798" width="563" height="800" frameX="-27" frameY="-29" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0011" x="2990" y="798" width="563" height="800" frameX="-27" frameY="-29" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0012" x="3573" y="798" width="562" height="796" frameX="-28" frameY="-33" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Left0013" x="3573" y="798" width="562" height="796" frameX="-28" frameY="-33" frameWidth="590" frameHeight="829"/>
+	<SubTexture name="Doll Right0000" x="4155" y="798" width="595" height="754" frameX="0" frameY="-2" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0001" x="4155" y="798" width="595" height="754" frameX="0" frameY="-2" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0002" x="4770" y="798" width="602" height="756"/>
+	<SubTexture name="Doll Right0003" x="4770" y="798" width="602" height="756"/>
+	<SubTexture name="Doll Right0004" x="5392" y="798" width="591" height="755" frameX="0" frameY="-1" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0005" x="5392" y="798" width="591" height="755" frameX="0" frameY="-1" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0006" x="6003" y="798" width="575" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0007" x="6003" y="798" width="575" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0008" x="6598" y="798" width="571" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0009" x="6598" y="798" width="571" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0010" x="7189" y="798" width="570" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0011" x="7189" y="798" width="570" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0012" x="10" y="1647" width="570" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Right0013" x="10" y="1647" width="570" height="752" frameX="0" frameY="-4" frameWidth="602" frameHeight="756"/>
+	<SubTexture name="Doll Up0000" x="600" y="1647" width="647" height="816" frameX="-6" frameY="-9" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0001" x="600" y="1647" width="647" height="816" frameX="-6" frameY="-9" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0002" x="1267" y="1647" width="642" height="818" frameX="-9" frameY="-7" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0003" x="1267" y="1647" width="642" height="818" frameX="-9" frameY="-7" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0004" x="1929" y="1647" width="654" height="825" frameX="-1" frameY="0" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0005" x="1929" y="1647" width="654" height="825" frameX="-1" frameY="0" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0006" x="2603" y="1647" width="657" height="822" frameX="0" frameY="-3" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0007" x="2603" y="1647" width="657" height="822" frameX="0" frameY="-3" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0008" x="3280" y="1647" width="658" height="805" frameX="0" frameY="-20" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0009" x="3280" y="1647" width="658" height="805" frameX="0" frameY="-20" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0010" x="3958" y="1647" width="658" height="800" frameX="0" frameY="-25" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0011" x="3958" y="1647" width="658" height="800" frameX="0" frameY="-25" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0012" x="4636" y="1647" width="659" height="797" frameX="0" frameY="-28" frameWidth="659" frameHeight="825"/>
+	<SubTexture name="Doll Up0013" x="4636" y="1647" width="659" height="797" frameX="0" frameY="-28" frameWidth="659" frameHeight="825"/>
+</TextureAtlas>

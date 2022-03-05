@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vexus_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VEXUS UP0000" x="10" y="10" width="641" height="806" frameX="0" frameY="0" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0001" x="10" y="10" width="641" height="806" frameX="0" frameY="0" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0002" x="671" y="10" width="632" height="795" frameX="0" frameY="-3" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0003" x="671" y="10" width="632" height="795" frameX="0" frameY="-3" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0004" x="1323" y="10" width="624" height="757" frameX="-1" frameY="-16" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0005" x="1323" y="10" width="624" height="757" frameX="-1" frameY="-16" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0006" x="1967" y="10" width="659" height="791" frameX="-1" frameY="-21" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0007" x="1967" y="10" width="659" height="791" frameX="-1" frameY="-21" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0008" x="2646" y="10" width="668" height="807" frameX="-3" frameY="-25" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0009" x="2646" y="10" width="668" height="807" frameX="-3" frameY="-25" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0010" x="3334" y="10" width="670" height="811" frameX="-4" frameY="-28" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0011" x="3334" y="10" width="670" height="811" frameX="-4" frameY="-28" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0012" x="4024" y="10" width="671" height="812" frameX="-4" frameY="-29" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUS UP0013" x="4024" y="10" width="671" height="812" frameX="-4" frameY="-29" frameWidth="675" frameHeight="841"/>
+	<SubTexture name="VEXUSLEFT0000" x="4715" y="10" width="569" height="660" frameX="-1" frameY="-2" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0001" x="4715" y="10" width="569" height="660" frameX="-1" frameY="-2" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0002" x="5304" y="10" width="590" height="646" frameX="0" frameY="0" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0003" x="5304" y="10" width="590" height="646" frameX="0" frameY="0" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0004" x="5914" y="10" width="594" height="641" frameX="-19" frameY="-5" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0005" x="5914" y="10" width="594" height="641" frameX="-19" frameY="-5" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0006" x="6528" y="10" width="541" height="688" frameX="-28" frameY="-4" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0007" x="6528" y="10" width="541" height="688" frameX="-28" frameY="-4" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0008" x="7089" y="10" width="508" height="708" frameX="-35" frameY="-3" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0009" x="7089" y="10" width="508" height="708" frameX="-35" frameY="-3" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0010" x="7617" y="10" width="491" height="716" frameX="-41" frameY="-3" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0011" x="7617" y="10" width="491" height="716" frameX="-41" frameY="-3" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0012" x="10" y="842" width="484" height="720" frameX="-44" frameY="-3" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSLEFT0013" x="10" y="842" width="484" height="720" frameX="-44" frameY="-3" frameWidth="613" frameHeight="723"/>
+	<SubTexture name="VEXUSRIGHT0000" x="514" y="842" width="508" height="823" frameX="-9" frameY="-2" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0001" x="514" y="842" width="508" height="823" frameX="-9" frameY="-2" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0002" x="1042" y="842" width="508" height="829" frameX="-7" frameY="0" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0003" x="1042" y="842" width="508" height="829" frameX="-7" frameY="0" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0004" x="1570" y="842" width="505" height="819" frameX="0" frameY="-5" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0005" x="1570" y="842" width="505" height="819" frameX="0" frameY="-5" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0006" x="2095" y="842" width="499" height="803" frameX="0" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0007" x="2095" y="842" width="499" height="803" frameX="0" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0008" x="2614" y="842" width="492" height="793" frameX="-3" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0009" x="2614" y="842" width="492" height="793" frameX="-3" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0010" x="3126" y="842" width="488" height="788" frameX="-4" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0011" x="3126" y="842" width="488" height="788" frameX="-4" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0012" x="3634" y="842" width="486" height="784" frameX="-5" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="VEXUSRIGHT0013" x="3634" y="842" width="486" height="784" frameX="-5" frameY="-9" frameWidth="517" frameHeight="829"/>
+	<SubTexture name="vexus idle0000" x="4140" y="842" width="419" height="740" frameX="0" frameY="-22" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0001" x="4140" y="842" width="419" height="740" frameX="0" frameY="-22" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0002" x="4579" y="842" width="419" height="728" frameX="-1" frameY="-21" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0003" x="5018" y="842" width="419" height="737" frameX="-1" frameY="-21" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0004" x="5457" y="842" width="420" height="773" frameX="-4" frameY="-7" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0005" x="5457" y="842" width="420" height="773" frameX="-4" frameY="-7" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0006" x="5897" y="842" width="420" height="796" frameX="-5" frameY="-2" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0007" x="5897" y="842" width="420" height="796" frameX="-5" frameY="-2" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0008" x="6337" y="842" width="419" height="806" frameX="-6" frameY="0" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0009" x="6337" y="842" width="419" height="806" frameX="-6" frameY="0" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0010" x="6776" y="842" width="419" height="807" frameX="-6" frameY="0" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0011" x="6776" y="842" width="419" height="807" frameX="-6" frameY="0" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0012" x="7215" y="842" width="420" height="807" frameX="-5" frameY="-1" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexus idle0013" x="7655" y="842" width="419" height="797" frameX="-4" frameY="-9" frameWidth="425" frameHeight="808"/>
+	<SubTexture name="vexusdown0000" x="10" y="1691" width="644" height="589" frameX="-10" frameY="-36" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0001" x="10" y="1691" width="644" height="589" frameX="-10" frameY="-36" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0002" x="674" y="1691" width="640" height="587" frameX="-14" frameY="-35" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0003" x="674" y="1691" width="640" height="587" frameX="-14" frameY="-35" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0004" x="1334" y="1691" width="644" height="590" frameX="-7" frameY="-21" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0005" x="1334" y="1691" width="644" height="590" frameX="-7" frameY="-21" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0006" x="1998" y="1691" width="647" height="593" frameX="0" frameY="-10" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0007" x="1998" y="1691" width="647" height="593" frameX="0" frameY="-10" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0008" x="2665" y="1691" width="641" height="598" frameX="-4" frameY="-4" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0009" x="2665" y="1691" width="641" height="598" frameX="-4" frameY="-4" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0010" x="3326" y="1691" width="639" height="600" frameX="-6" frameY="-2" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0011" x="3326" y="1691" width="639" height="600" frameX="-6" frameY="-2" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0012" x="3985" y="1691" width="638" height="601" frameX="-6" frameY="0" frameWidth="654" frameHeight="625"/>
+	<SubTexture name="vexusdown0013" x="3985" y="1691" width="638" height="601" frameX="-6" frameY="0" frameWidth="654" frameHeight="625"/>
+</TextureAtlas>

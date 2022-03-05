@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "D",
+			"text": "UGH! Why can’t I win? This is so STUPID.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "B",
+			"text": "Bep :P",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfp"
+		},
+		{
+			"expression": "D",
+			"text": "Alright..you’re going DOWN!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		},
+		{
+			"expression": "A",
+			"text": "JENNY! Don’t turn me off next time. Tremorton needs your protection, Vexus is attacking from space!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "norap"
+		},
+		{
+			"expression": "D",
+			"text": "Yeah, yeah, whatever mom. I got it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jenyp"
+		}
+	]
+}

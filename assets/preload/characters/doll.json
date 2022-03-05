@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				447
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Doll Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				327
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Doll Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				440
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Doll Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				384
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Doll Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-74,
+				392
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Doll Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DollJenny",
+	"position": [
+		-240,
+		330
+	],
+	"healthicon": "doll",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		172,
+		183
+	],
+	"camera_position": [
+		-100,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				229
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jennyleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				156
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jennydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				307
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jenny up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				203
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jennyright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				243
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "JENNY LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				181
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "JENNY DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-201,
+				235
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "jenny up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				205
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "JENNY RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				133
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "jenny dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-128,
+				133
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "JENNY DIES LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				133
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "jenny dead confirms",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-145,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "JENNY idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/grenny",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "boltcatcher",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		235,
+		180
+	],
+	"camera_position": [
+		-90,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
